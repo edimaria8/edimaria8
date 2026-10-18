@@ -14,11 +14,12 @@ Data & AI engineer and composer, based in Modena, Italy.
 
 ## Tools
 
-- **AI and computer vision:** Python, PyTorch, torchvision, timm, Hugging Face Transformers, OpenCLIP, PyTorch Geometric, FAISS, scikit-learn, Weights & Biases, Jupyter
-- **Data:** NumPy, pandas, SciPy, NetworkX, Matplotlib, seaborn
+- **AI and computer vision:** Python, PyTorch, Hugging Face Transformers, OpenCLIP, PyTorch Geometric, FAISS, scikit-learn, Weights & Biases
+- **Data:** PostgreSQL, Neo4j, NumPy, pandas, NetworkX
 - **Web and mobile:** TypeScript, React, Next.js, Astro, NestJS, Tailwind CSS, Flutter
-- **AI-assisted development:** Claude Code
-- **Design and music:** Figma, Framer, Adobe Photoshop and Illustrator, Dorico, Ableton Live
+- **Desktop:** C#, Avalonia
+- **Workflow:** Claude Code, Obsidian
+- **Design and music:** Figma, Framer, Dorico, Cubase Pro, Ableton Live
 
 ## Contact
 
