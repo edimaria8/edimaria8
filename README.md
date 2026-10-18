@@ -12,6 +12,14 @@ Data & AI engineer and composer, based in Modena, Italy.
 - **[FusePlan](https://github.com/290990-collab/FusePlan)**: floor plan retrieval on RPLAN, fusing a vision pipeline and a graph pipeline. University computer vision project.
 - **[CV-Labs](https://github.com/edimaria8/CV-Labs)**: lab lectures of the UNIMORE computer vision course, plus personal ML projects.
 
+## Tools
+
+- **AI and computer vision:** Python, PyTorch, torchvision, timm, Hugging Face Transformers, OpenCLIP, PyTorch Geometric, FAISS, scikit-learn, Weights & Biases, Jupyter
+- **Data:** NumPy, pandas, SciPy, NetworkX, Matplotlib, seaborn
+- **Web and mobile:** TypeScript, React, Next.js, Astro, NestJS, Tailwind CSS, Flutter
+- **AI-assisted development:** Claude Code
+- **Design and music:** Figma, Framer, Adobe Photoshop and Illustrator, Dorico, Ableton Live
+
 ## Contact
 
 Open to collaborations and client work.
