@@ -14,12 +14,9 @@ Data & AI engineer and composer, based in Modena, Italy.
 
 ## Tools
 
-- **AI and computer vision:** Python, PyTorch, Hugging Face Transformers, OpenCLIP, PyTorch Geometric, FAISS, scikit-learn, Weights & Biases
-- **Data:** PostgreSQL, Neo4j, NumPy, pandas, NetworkX
-- **Web and mobile:** TypeScript, React, Next.js, Astro, NestJS, Tailwind CSS, Flutter
-- **Desktop:** C#, Avalonia
-- **Workflow:** Claude Code, Obsidian
-- **Design and music:** Figma, Framer, Dorico, Cubase Pro, Ableton Live
+<img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,postgres,ts,react,nextjs,astro,nestjs,tailwind,flutter,cs,obsidian,figma,ableton&perline=15" alt="Python, PyTorch, scikit-learn, PostgreSQL, TypeScript, React, Next.js, Astro, NestJS, Tailwind CSS, Flutter, C#, Obsidian, Figma, Ableton Live" />
+
+Also: Hugging Face Transformers, OpenCLIP, PyTorch Geometric, FAISS, Weights & Biases, Neo4j, NumPy, pandas, NetworkX, Avalonia, Claude Code, Framer, Dorico, Cubase Pro.
 
 ## Contact
 
